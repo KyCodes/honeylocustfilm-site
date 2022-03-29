@@ -84,6 +84,7 @@ h1:hover {
     top: 0px;
     left: 0px;
     border-radius: 8px;
+    overflow: hidden;
 }
 
 @keyframes fadeInDown {
