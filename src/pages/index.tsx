@@ -15,7 +15,7 @@ export default function componentName() {
         <meta name="author" content="Kyler Fullerton" />
       </Helmet>
       <div className='card'>
-        <StaticImage placeholder='blurred' src='../images/honeylocust-banner.webp' alt="Honey Locust Film Banner" />
+        <StaticImage placeholder='blurred' imgStyle={{ borderRadius: '8px' }} src='../images/honeylocust-banner.webp' alt="Honey Locust Film Banner" />
         <p>Honey Locust Film</p>
       </div>
       <h1><a href='https://ky.codes/'>Coming soon...</a></h1>
